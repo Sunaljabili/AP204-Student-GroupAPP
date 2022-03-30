@@ -1,0 +1,16 @@
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/bin/Debug/netcoreapp3.1/AP204Tasks.deps.json
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/bin/Debug/netcoreapp3.1/AP204Tasks.runtimeconfig.json
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/bin/Debug/netcoreapp3.1/AP204Tasks.runtimeconfig.dev.json
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/bin/Debug/netcoreapp3.1/AP204Tasks.dll
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/bin/Debug/netcoreapp3.1/AP204Tasks.pdb
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/bin/Debug/netcoreapp3.1/ClassLibrary.dll
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/bin/Debug/netcoreapp3.1/ClassLibrary.pdb
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/obj/Debug/netcoreapp3.1/AP204Tasks.csproj.AssemblyReference.cache
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/obj/Debug/netcoreapp3.1/AP204Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/obj/Debug/netcoreapp3.1/AP204Tasks.AssemblyInfoInputs.cache
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/obj/Debug/netcoreapp3.1/AP204Tasks.AssemblyInfo.cs
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/obj/Debug/netcoreapp3.1/AP204Tasks.csproj.CoreCompileInputs.cache
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/obj/Debug/netcoreapp3.1/AP204Tasks.csproj.CopyComplete
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/obj/Debug/netcoreapp3.1/AP204Tasks.dll
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/obj/Debug/netcoreapp3.1/AP204Tasks.pdb
+/Users/sunaljabili/Projects/AP204Tasks/AP204Tasks/obj/Debug/netcoreapp3.1/AP204Tasks.genruntimeconfig.cache
